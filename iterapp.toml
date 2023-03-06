@@ -1,0 +1,8 @@
+port=80
+readiness_path="/"
+from_to_www_redirect=true
+emoji="🧪"
+liveness_path = "/"
+[requests]
+memory="98Mi"
+cpu="24m"
